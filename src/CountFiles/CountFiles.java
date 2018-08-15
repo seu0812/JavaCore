@@ -1,10 +1,10 @@
-package ProgrammFile;
+package CountFiles;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Program {
+public class CountFiles {
 	
 	static List<File> files = new ArrayList<>();
 
